@@ -462,6 +462,22 @@ msgstr "ポッドキャストへ移動"
 msgid "Copy link"
 msgstr "リンクをコピー"
 
+#: src/ui/widgets.rs
+msgid "Copy details"
+msgstr "詳細をコピー"
+
+#: src/ui/widgets.rs
+msgid "Song title"
+msgstr "曲名"
+
+#: src/ui/widgets.rs
+msgid "Artist and song title"
+msgstr "アーティスト名と曲名"
+
+#: src/ui/widgets.rs
+msgid "Copied"
+msgstr "コピーしました"
+
 #: src/ui/widgets.rs:978 src/ui/widgets.rs:1090
 msgid "Open in Spotify"
 msgstr "Spotifyで開く"

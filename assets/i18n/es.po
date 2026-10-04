@@ -466,6 +466,22 @@ msgstr "Ir al pódcast"
 msgid "Copy link"
 msgstr "Copiar enlace"
 
+#: src/ui/widgets.rs
+msgid "Copy details"
+msgstr "Copiar detalles"
+
+#: src/ui/widgets.rs
+msgid "Song title"
+msgstr "Título de la canción"
+
+#: src/ui/widgets.rs
+msgid "Artist and song title"
+msgstr "Artista y título de la canción"
+
+#: src/ui/widgets.rs
+msgid "Copied"
+msgstr "Copiado"
+
 #: src/ui/widgets.rs:978 src/ui/widgets.rs:1090
 msgid "Open in Spotify"
 msgstr "Abrir en Spotify"

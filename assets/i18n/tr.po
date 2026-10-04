@@ -466,6 +466,22 @@ msgstr "Podcast'e git"
 msgid "Copy link"
 msgstr "Bağlantıyı kopyala"
 
+#: src/ui/widgets.rs
+msgid "Copy details"
+msgstr "Ayrıntıları kopyala"
+
+#: src/ui/widgets.rs
+msgid "Song title"
+msgstr "Şarkı adı"
+
+#: src/ui/widgets.rs
+msgid "Artist and song title"
+msgstr "Sanatçı ve şarkı adı"
+
+#: src/ui/widgets.rs
+msgid "Copied"
+msgstr "Kopyalandı"
+
 #: src/ui/widgets.rs:978 src/ui/widgets.rs:1090
 msgid "Open in Spotify"
 msgstr "Spotify'da aç"

@@ -469,6 +469,22 @@ msgstr ""
 msgid "Copy link"
 msgstr ""
 
+#: src/ui/widgets.rs
+msgid "Copy details"
+msgstr ""
+
+#: src/ui/widgets.rs
+msgid "Song title"
+msgstr ""
+
+#: src/ui/widgets.rs
+msgid "Artist and song title"
+msgstr ""
+
+#: src/ui/widgets.rs
+msgid "Copied"
+msgstr ""
+
 #: src/ui/widgets.rs:978 src/ui/widgets.rs:1090
 msgid "Open in Spotify"
 msgstr ""

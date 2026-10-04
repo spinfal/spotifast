@@ -462,6 +462,22 @@ msgstr "前往 Podcast"
 msgid "Copy link"
 msgstr "複製連結"
 
+#: src/ui/widgets.rs
+msgid "Copy details"
+msgstr "複製詳細資料"
+
+#: src/ui/widgets.rs
+msgid "Song title"
+msgstr "歌曲名稱"
+
+#: src/ui/widgets.rs
+msgid "Artist and song title"
+msgstr "藝人和歌曲名稱"
+
+#: src/ui/widgets.rs
+msgid "Copied"
+msgstr "已複製"
+
 #: src/ui/widgets.rs:978 src/ui/widgets.rs:1090
 msgid "Open in Spotify"
 msgstr "在 Spotify 中開啟"

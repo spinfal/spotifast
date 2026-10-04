@@ -466,6 +466,22 @@ msgstr "Gå till podd"
 msgid "Copy link"
 msgstr "Kopiera länk"
 
+#: src/ui/widgets.rs
+msgid "Copy details"
+msgstr "Kopiera detaljer"
+
+#: src/ui/widgets.rs
+msgid "Song title"
+msgstr "Låttitel"
+
+#: src/ui/widgets.rs
+msgid "Artist and song title"
+msgstr "Artist och låttitel"
+
+#: src/ui/widgets.rs
+msgid "Copied"
+msgstr "Kopierat"
+
 #: src/ui/widgets.rs:978 src/ui/widgets.rs:1090
 msgid "Open in Spotify"
 msgstr "Öppna i Spotify"
